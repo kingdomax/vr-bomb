@@ -1,0 +1,595 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M  (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     2960 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
+Platform assembly: C:\Users\user\Desktop\VRBomb_V.4(HEAD+TAIL+TUTORIAL)\VRB_Data\Managed\System.dll (this message is harmless)
+TutorialController.cs_Initialize.TutorialScene
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TutorialController.cs_Tutorial1.Active
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TutorialController.cs_Tutorial1.DeActive
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TutorialController.cs_Tutorial2.Active
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TutorialController.cs_Tutorial2.DeActive
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TutorialController.cs_Tutorial3.Active
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadMain.cs_Detected.ScreenTapGesture
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TutorialController.cs_KeyDown.F1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 3.449775 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2605.
+Total: 0.904781 ms (FindLiveObjects: 0.093952 ms CreateObjectMapping: 0.034738 ms MarkObjects: 0.393177 ms  DeleteObjects: 0.008684 ms)
+
+TutorialController.cs_Initialize.TutorialScene
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TutorialController.cs_Tutorial1.Active
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadMain.cs_Detected.ScreenTapGesture
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadMain.cs_Detected.ScreenTapGesture
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TutorialController.cs_KeyDown.F2
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.888201 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 104 unused Assets to reduce memory usage. Loaded Objects now: 3265.
+Total: 1.181111 ms (FindLiveObjects: 0.079740 ms CreateObjectMapping: 0.031580 ms MarkObjects: 0.418441 ms  DeleteObjects: 0.358833 ms)
+
+HeadMain.cs_Initialize.HeadAsemblyScene
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadMain.cs_KeyDown.F2
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.394674 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 3263.
+Total: 1.196111 ms (FindLiveObjects: 0.150402 ms CreateObjectMapping: 0.061976 ms MarkObjects: 0.575160 ms  DeleteObjects: 0.023290 ms)
+
+HeadMain.cs_Initialize.HeadAsemblyScene
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadMain.cs_KeyDown.F2
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.226508 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 3263.
+Total: 0.915045 ms (FindLiveObjects: 0.082898 ms CreateObjectMapping: 0.033159 ms MarkObjects: 0.410941 ms  DeleteObjects: 0.017764 ms)
+
+HeadMain.cs_Initialize.HeadAsemblyScene
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerStopScrew.cs_HeadAssembly.Step1.StopScrewConnected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerStopScrew.cs_HeadAssembly.Step1.StopScrewConnected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerScrewDriver.cs_HeadAssembly.Step1.ScrewDriverConnected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadAssembly.cs_Invoke.BruteForceStep1_3()
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadAssembly.cs_Finish.Step1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerHover.cs_HeadAssembly.Step2.HoverAtLockpin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerDelayElement.cs_HeadAssembly.Step2.DelayElementConnected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadAssembly.cs_Finish.Step2
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerArmingWire.cs_HeadAssembly.Step3.ArmingWireConnected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadAssembly.cs_Finish.Step3
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerRetainingClipe.cs_HeadAssembly.Step4.RetainingClipConnected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadAssembly.cs_Invoke.BruteForceStep4_2()
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadAssembly.cs_Finish.Step4
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerTray.cs_HeadAssembly.Step5.TrayCapped
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadAssembly.cs_Finish.AllStep
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+HeadMain.cs_KeyDown.F3
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 1.036630 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 3587.
+Total: 0.948599 ms (FindLiveObjects: 0.063161 ms CreateObjectMapping: 0.035922 ms MarkObjects: 0.461470 ms  DeleteObjects: 0.068687 ms)
+
+TailMain.cs_Initialize.TailAsemblyScene
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerSafetyElement.cs_TailAssembly.Step1.SafetyElementConnected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailAssembly.cs_Finish.Step1.1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerStopScrew.cs_TailAssembly.Step1.StopScrewConnected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailAssembly.cs_Finish.Step1.2
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerScrewDriver.cs_TailAssembly.Step1.ScrewDriverConnected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailAssembly.cs_Finish.Step1.3
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailAssembly.cs_Invoke.BruteForceStep1_4()
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailAssembly.cs_Finish.Step1.4
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerClip.cs_TailAssembly.Step2.ClipConnected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailAssembly.cs_Finish.Step2.1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TriggerArmingPin.cs_TailAssembly.Step3.ArmingPinConnected
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailAssembly.cs_Finish.Step3.1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailAssembly.cs_Invoke.BruteForceStep3_2()
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailAssembly.cs_Finish.Step3.2
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailAssembly.cs_Finish.AllStep
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailMain.cs_Detected.ScreenTapGesture
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailMain.cs_Detected.ScreenTapGesture.RestartButton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 2.345247 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 3587.
+Total: 1.046104 ms (FindLiveObjects: 0.100662 ms CreateObjectMapping: 0.052897 ms MarkObjects: 0.547921 ms  DeleteObjects: 0.009474 ms)
+
+TailMain.cs_Initialize.TailAsemblyScene
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+TailMain.cs_Quit.TailAsemblyScene
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+

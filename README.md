@@ -2,6 +2,10 @@
 
 Aerial Bomb Assembly Simulator
 
+## Demo VDO
+
+https://www.youtube.com/watch?v=pr76RaMlCQM
+
 ## Objective
 
 - Develop a VR simulator for aerial bomb assembly training
@@ -13,10 +17,6 @@ Aerial Bomb Assembly Simulator
 
 * [Leap Motion SDK for unity](https://developer.leapmotion.com/unity#5436356)
 * [Oculus SDK for unity](https://developer.oculus.com/documentation/unity/latest/concepts/book-unity-gsg/)
-
-## Demo
-
-https://www.youtube.com/watch?v=pr76RaMlCQM
 
 ## Authors
 
